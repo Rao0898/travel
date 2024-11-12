@@ -20,7 +20,7 @@ const Service2 = () => {
             <div className="flex flex-col w-full py-16 px-6 lg:py-32 lg:px-8 bg-opacity-50 rounded-md">
               <div className="text-left w-full">
                 <h2 className="text-4xl lg:text-4xl text-white font-medium title-font mb-4">
-                <span className="font-bold italic" style={{ fontFamily: "'Playfair Display', serif" }}>Luxury Viator Services </span> 
+                <span className="font-bold italic">Luxury Viator Services </span> 
                 </h2>
                 <p className="leading-relaxed text-base lg:text-lg mb-4">
                 Travel for pleasure. Travel for work

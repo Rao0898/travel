@@ -23,7 +23,7 @@ const Review3 = () => {
       </p>
       <div className="flex justify-center">
       <h1 className="title-font sm:text-6xl text-6xl mb-4 font-medium text-black">
-      <span className="font-bold italic" style={{ fontFamily: "'Playfair Display', serif" }}>Klodine Jacobs</span> 
+      <span className="font-bold italic" >Klodine Jacobs</span> 
       </h1>
       </div>
     </div>

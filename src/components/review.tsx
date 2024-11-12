@@ -20,7 +20,7 @@ const Review = () => {
             <div className="flex flex-col w-full py-16 px-6 lg:py-32 lg:px-8 bg-opacity-50 rounded-md">
               <div className="text-left w-full -mt-4">
                 <h2 className="text-5xl lg:text-5xl text-white font-medium title-font mb-4">
-                <span className="font-bold italic" style={{ fontFamily: "'Playfair Display', serif" }}> What my customer say <br/> about their vacation </span>
+                <span className="font-bold italic" > What my customer say <br/> about their vacation</span>
                 </h2>
               </div>
             </div>

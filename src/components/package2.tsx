@@ -25,7 +25,7 @@ const Package2 = () => {
           <div className="flex flex-col lg:flex-row lg:justify-between items-start">
             {/* Left-aligned heading */}
             <div className="mb-10 lg:mb-0 lg:w-1/3">
-              <h2 className="text-gray-900 text-4xl font-bold italic" style={{ fontFamily: "'Playfair Display', serif" }}>
+              <h2 className="text-gray-900 text-4xl font-bold italic">
                 Why plan your next vacation with Luxury Viator?
               </h2>
             </div>

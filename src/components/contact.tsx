@@ -21,7 +21,7 @@ const Contact = () => {
             <div className="flex flex-col w-full py-8 px-4 md:py-16 md:px-6 lg:py-24 lg:px-8 bg-opacity-60 rounded-md">
               <div className="text-left w-full">
                 <h2 className="text-4xl md:text-5xl lg:text-6xl font-medium title-font mb-4">
-                  <span className="font-bold italic" style={{ fontFamily: "'Playfair Display', serif" }}>Contact</span>
+                  <span className="font-bold italic">Contact</span>
                 </h2>
               </div>
             </div>

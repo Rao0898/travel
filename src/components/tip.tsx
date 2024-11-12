@@ -20,7 +20,7 @@ const Tip = () => {
             <div className="flex flex-col w-full py-16 px-6 lg:py-32 lg:px-8 bg-opacity-50 rounded-md">
               <div className="text-left w-full -mt-4">
                 <h2 className="text-6xl lg:text-6xl text-white font-medium title-font mb-4">
-                <span className="font-bold italic" style={{ fontFamily: "'Playfair Display', serif" }}> Blog </span>
+                <span className="font-bold italic"> Blog </span>
                 </h2>
               </div>
             </div>

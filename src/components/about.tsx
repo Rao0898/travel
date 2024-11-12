@@ -11,7 +11,7 @@ const About = () => {
             <h1 className="title-font sm:text-5xl text-4xl mb-4 font-medium text-gray-900">
               Welcome to
               <br className="hidden lg:inline-block" />
-              <span className="font-bold italic" style={{ fontFamily: "'Playfair Display', serif" }}>Luxury Viator!</span>
+              <span className="font-bold italic">Luxury Viator!</span>
             </h1>
             <p className="mb-8 leading-relaxed text-black text-base md:text-lg">
               I am Ahmed, a passionate travel professional who understands that planning is half the battle. I want to make your next experience the best one yet by understanding your vision and providing superior customer service. I specialize in all-inclusive stays, romantic, and family getaways, as well as group land and cruise travel. Leave all the logistics to me and get ready to enjoy a next-level vacation. I'm excited to meet you and get started—let the journey begin!
