@@ -21,7 +21,7 @@ const Line = () => {
 
       {/* Centered Paragraph */}
       <p className="text-center text-black text-lg">
-        Need help deciding where to go next? Take a look at some of our travelers'<br/>recommended vacations.
+        Need help deciding where to go next? Take a look at some of our travelers<br/>recommended vacations.
       </p>
 
       <section className="text-gray-400 bg-white body-font">

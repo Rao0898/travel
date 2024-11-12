@@ -14,7 +14,7 @@ const About = () => {
               <span className="font-bold italic">Luxury Viator!</span>
             </h1>
             <p className="mb-8 leading-relaxed text-black text-base md:text-lg">
-              I am Ahmed, a passionate travel professional who understands that planning is half the battle. I want to make your next experience the best one yet by understanding your vision and providing superior customer service. I specialize in all-inclusive stays, romantic, and family getaways, as well as group land and cruise travel. Leave all the logistics to me and get ready to enjoy a next-level vacation. I'm excited to meet you and get started—let the journey begin!
+              I am Ahmed, a passionate travel professional who understands that planning is half the battle. I want to make your next experience the best one yet by understanding your vision and providing superior customer service. I specialize in all-inclusive stays, romantic, and family getaways, as well as group land and cruise travel. Leave all the logistics to me and get ready to enjoy a next-level vacation. Im excited to meet you and get started—let the journey begin
             </p>
           </div>
           <div className="lg:max-w-lg lg:w-full md:w-1/2 w-full">

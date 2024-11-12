@@ -38,7 +38,7 @@ const Dream = () => {
           </div>
           <h3 className="text-lg font-semibold">Book your vacation</h3>
           <p className="text-gray-600 mt-2">
-            Book your vacation only when it fits your needs and desires, and you're happy with the itinerary.
+            Book your vacation only when it fits your needs and desires, and you are happy with the itinerary.
           </p>
         </div>
       </div>
